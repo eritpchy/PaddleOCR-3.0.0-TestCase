@@ -14,7 +14,7 @@ debug.log
 ### 示例视频
 test/*.mp4
 
-### 对别结果
+### 对比结果
 output_mobile_det/*.mp4  
 output_server_det/*.mp4
 
